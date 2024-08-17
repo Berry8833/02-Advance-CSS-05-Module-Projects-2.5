@@ -1,4 +1,4 @@
-# Create Run Buddy 2.0
+# Create Run Buddy 2.5
 
 Tools
 
