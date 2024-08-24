@@ -40,7 +40,7 @@ Tools
 - Here, the things written with a tag will change color if the arrow is placed it.
 - Declare a global variable and decorate it.
 
-- #### Hero / Jumbotron
+- ### Hero / Jumbotron
 - I wrote a big hero section first.
 - I wrote a hero-cta section add h2 tag heading and a p tag of paragraph.
 - I wrote a hero form with a div tag.
@@ -50,7 +50,7 @@ Tools
 - Here, the edges of the frame are broken and the box sharow and colors are decorated.
 
 
-- #### What We Do
+- ### What We Do
 - Now, in the what we do section, we have written two div tags, a heading and a paragraph.
 
 - ### What You Do
